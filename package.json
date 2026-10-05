@@ -1,0 +1,9 @@
+{
+  "name": "student-portal",
+  "version": "1.0.0",
+  "description": "Student portal deployed on Netlify",
+  "main": "index.html",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
